@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/38eae16b57a0c2d039423.jpg"width="350"" alt="MightyXSpam Logo">
+  <img src="https://te.legra.ph/file/a393e02a0621fbd97617c.jpg"width="350"" alt="KsKXSpam Logo">
 </p>
 <h1 align="center">
-  <b>⚠️ 𝘔𝘪𝘨𝘩𝘵𝘺 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
+  <b>⚠️ KSK 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
 </h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXBotSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/BeingMighty/MightyXBotSpam)
@@ -13,7 +13,7 @@
 
 # Deploy To Heroku :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpamDeploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rahulsharma45/KsKBotSpamDeploy)
 
 <br>
 
@@ -21,7 +21,7 @@
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [MightyX Creator](https://github.com/BeingMighty)
+* [KsKX Creator](https://github.com/Rahulsharma45)
 
 * [Lonami](https://github.com/LonamiWebs/) For [Telethon.](https://github.com/LonamiWebs/Telethon)
 
